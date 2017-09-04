@@ -1,2 +1,3 @@
 Content of 003.txt
 has been changed
+local revision made
